@@ -7,8 +7,11 @@
 ## Linux CLI, and HTTP
 
 ![quiz1](/task_linux_cli/1.jpg)
+
 ![quiz2](/task_linux_cli/2.jpg)
+
 ![quiz3](/task_linux_cli/3.jpg)
+
 ![quiz4](/task_linux_cli/4.jpg)
 
 ### Linux Survival
