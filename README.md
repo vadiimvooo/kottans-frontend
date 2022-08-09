@@ -6,7 +6,7 @@
 
 - [x] **Git Basics**
 - [x] **Linux CLI and Networking**
-- [ ] **VCS (hello gitty), GitHub and Collaboration**
+- [x] **VCS (hello gitty), GitHub and Collaboration**
 
 ### Front-End Basics
 
@@ -51,3 +51,33 @@
 ### HTTP
 
 До проходження курсу не мав знань з цієї теми. Із матеріалу дізнався багато нового, у тому числі стосовно ролі заголовків. Після ознайомлення з даним матеріалом планую більш погліблено вивчати тему протоколів передачі даних!
+
+---
+
+## Git Collaboration
+
+### Introduction to Git and GitHub
+
+![lesson1](/task_git_collaboration/int_to_git-1.jpg)
+
+![lesson2](/task_git_collaboration/int_to_git-2.jpg)
+
+Прослухавши тижні 3 та 4 курсу [**Introduction to Git and GitHub**](https://www.coursera.org/learn/introduction-git-github) дізнався багато усього нового, у тому числі покращив свої знання з деяких команд (зокрема більш детално розглянув команду rebase). Будe і надалі використовувати данний курс як хорошу базу.
+
+### Learn git branching
+
+![task1](/task_git_collaboration/git_branching-1.png)
+
+![task2](/task_git_collaboration/git_branching-2.png)
+
+Пройшов усі рівні у [Learn git branching](learngitbranching.js.org). Насправді було важкувато, оскільки багато складних дій, проте, на мою думку, практика з Git'ом допоможе краще засвоїти набуті знання.і
+
+
+
+
+
+
+
+
+
+
