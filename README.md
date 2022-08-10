@@ -10,7 +10,7 @@
 
 ### Front-End Basics
 
-- [ ] **Intro to HTML & CSS**
+- [x] **Intro to HTML & CSS**
 - [ ] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
@@ -72,8 +72,23 @@
 
 Пройшов усі рівні у [Learn git branching](learngitbranching.js.org). Насправді було важкувато, оскільки багато складних дій, проте, на мою думку, практика з Git'ом допоможе краще засвоїти набуті знання.і
 
+---
 
+## Intro to HTML and CSS
 
+### Intro to HTML & CSS
+
+![theory-1](/task_html_css_intro/html_css_theory-1.jpg)
+
+![theory-2](/task_html_css_intro/html_css_theory-2.jpg)
+
+Майже з усією інформацію з цього курсу був знайомий, проте знайшлось і те, що при самостійному вивченні я пропустив, а саме властивість **border-size**. Дуже сподобалась хороша структурованість курсу, що в свою чергу допомогло мені пройти його ефективніше.
+
+### Learn HTML and CSS with Codecadamy
+
+![practice](/task_html_css_intro/codeacademy_css_html.jpg)
+
+Дуже хороша теоритична база у поєднанні з хорошою практикою, що надає змогу одразу втілити набуті знання. Власне тут мені вдалось краще збагнути як саме працює вищезазначена властивість.
 
 
 
