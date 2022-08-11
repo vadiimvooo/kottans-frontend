@@ -11,7 +11,7 @@
 ### Front-End Basics
 
 - [x] **Intro to HTML & CSS**
-- [ ] **Responsive Web Design**
+- [x] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
@@ -90,9 +90,18 @@
 
 Дуже хороша теоритична база у поєднанні з хорошою практикою, що надає змогу одразу втілити набуті знання. Власне тут мені вдалось краще збагнути як саме працює вищезазначена властивість.
 
+---
 
+## Responsive Web Design
 
+### Flexbox Froggy
 
+![Flexbox](/task_responsive_web_design/Flexbox_Froggy.jpg)
 
+До цього курсу вже верстав на **Flexbox**, тому ця тема вже не нова для мене, проте було не зайвим ще раз пройти її. Зокрема сподобалась подача, а саме інтерактивні завдання на [Flexbox Froggy](http://flexboxfroggy.com/), що не давали занудьгувати при виконанні завдань.
 
+### Grid Garden
 
+![Grid](/task_responsive_web_design/Grid_Garden.jpg)
+
+А ось із версткою на **Grid** я був не дуже знайомий. Дуже допомогли надані теоретичні матеріали, а завдання на [Grid Garden](http://cssgridgarden.com/) допомогли закріпити набуте.
