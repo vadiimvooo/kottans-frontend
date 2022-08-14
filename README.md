@@ -12,7 +12,7 @@
 
 - [x] **Intro to HTML & CSS**
 - [x] **Responsive Web Design**
-- [ ] **HTML & CSS Practice**
+- [x] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 
@@ -105,3 +105,10 @@
 ![Grid](/task_responsive_web_design/Grid_Garden.jpg)
 
 А ось із версткою на **Grid** я був не дуже знайомий. Дуже допомогли надані теоретичні матеріали, а завдання на [Grid Garden](http://cssgridgarden.com/) допомогли закріпити набуте.
+
+---
+
+## HTML & CSS Practice
+
+На перший погляд здавалось що це буде легко, однак, довелось трохи попітніти. Результат можна побачити [тут](https://vadiimvooo.github.io/Html-Css-Popup-Task/).
+
